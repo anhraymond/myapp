@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.874f089d.chunk.css",
-    "main.js": "/myapp/static/js/main.555c23d9.chunk.js",
-    "main.js.map": "/myapp/static/js/main.555c23d9.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.82d0fe2c.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.82d0fe2c.js.map",
-    "static/js/2.315df658.chunk.js": "/myapp/static/js/2.315df658.chunk.js",
-    "static/js/2.315df658.chunk.js.map": "/myapp/static/js/2.315df658.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.dae06d77ddc0b8705e093111cd2c7e26.js": "/myapp/precache-manifest.dae06d77ddc0b8705e093111cd2c7e26.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/main.874f089d.chunk.css.map": "/myapp/static/css/main.874f089d.chunk.css.map",
-    "static/js/2.315df658.chunk.js.LICENSE.txt": "/myapp/static/js/2.315df658.chunk.js.LICENSE.txt",
-    "static/media/avatar1.jpg": "/myapp/static/media/avatar1.fce168e6.jpg",
-    "static/media/App.css": "/myapp/static/media/w1.20862f7e.jpg",
-    "static/media/html-css-javascript-lg.jpg": "/myapp/static/media/html-css-javascript-lg.54fd4234.jpg",
-    "static/media/javascript-fullstack.jpg": "/myapp/static/media/javascript-fullstack.730958a2.jpg",
-    "static/media/mern-stack.jpg": "/myapp/static/media/mern-stack.90616a5d.jpg",
-    "static/media/react-redux.jpg": "/myapp/static/media/react-redux.a8b012a0.jpg"
+    "main.css": "/*https://anhraymond.github.io/myapp*/static/css/main.38964221.chunk.css",
+    "main.js": "/*https://anhraymond.github.io/myapp*/static/js/main.f2f41c2a.chunk.js",
+    "main.js.map": "/*https://anhraymond.github.io/myapp*/static/js/main.f2f41c2a.chunk.js.map",
+    "runtime-main.js": "/*https://anhraymond.github.io/myapp*/static/js/runtime-main.f679b55b.js",
+    "runtime-main.js.map": "/*https://anhraymond.github.io/myapp*/static/js/runtime-main.f679b55b.js.map",
+    "static/js/2.315df658.chunk.js": "/*https://anhraymond.github.io/myapp*/static/js/2.315df658.chunk.js",
+    "static/js/2.315df658.chunk.js.map": "/*https://anhraymond.github.io/myapp*/static/js/2.315df658.chunk.js.map",
+    "index.html": "/*https://anhraymond.github.io/myapp*/index.html",
+    "precache-manifest.0b33855b57a9f8be8ecbd57aeabcd335.js": "/*https://anhraymond.github.io/myapp*/precache-manifest.0b33855b57a9f8be8ecbd57aeabcd335.js",
+    "service-worker.js": "/*https://anhraymond.github.io/myapp*/service-worker.js",
+    "static/css/main.38964221.chunk.css.map": "/*https://anhraymond.github.io/myapp*/static/css/main.38964221.chunk.css.map",
+    "static/js/2.315df658.chunk.js.LICENSE.txt": "/*https://anhraymond.github.io/myapp*/static/js/2.315df658.chunk.js.LICENSE.txt",
+    "static/media/avatar1.jpg": "/*https://anhraymond.github.io/myapp*/static/media/avatar1.fce168e6.jpg",
+    "static/media/App.css": "/*https://anhraymond.github.io/myapp*/static/media/w1.20862f7e.jpg",
+    "static/media/html-css-javascript-lg.jpg": "/*https://anhraymond.github.io/myapp*/static/media/html-css-javascript-lg.54fd4234.jpg",
+    "static/media/javascript-fullstack.jpg": "/*https://anhraymond.github.io/myapp*/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/mern-stack.jpg": "/*https://anhraymond.github.io/myapp*/static/media/mern-stack.90616a5d.jpg",
+    "static/media/react-redux.jpg": "/*https://anhraymond.github.io/myapp*/static/media/react-redux.a8b012a0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.82d0fe2c.js",
+    "static/js/runtime-main.f679b55b.js",
     "static/js/2.315df658.chunk.js",
-    "static/css/main.874f089d.chunk.css",
-    "static/js/main.555c23d9.chunk.js"
+    "static/css/main.38964221.chunk.css",
+    "static/js/main.f2f41c2a.chunk.js"
   ]
 }
